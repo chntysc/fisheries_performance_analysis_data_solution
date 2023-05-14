@@ -11,14 +11,14 @@ Fishermen face several challenges that lead to significant losses in the fishing
 ## Team Members
 ---
 ### Team ID: C23-CD01 - Build App To Collect Data
-| Name                            | Cohort ID          | Learning Path    | Class       | University                 | LinkedIn                                                                |
-| ------------------------------- | ------------------ | ---------------- | ----------- | -------------------------- | ----------------------------------------------------------------------- |
-| Osmond Willyando                | M017DKX3886        | Machine Learning | ML-49       | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
-| Chintya Suci Wardani            | M017DKY3765        | Machine Learning | ML-10       | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/chintya-suci-wardani-933004194/) |
-| Samuel Pandohan Terampil Gultom | M322DSX2142        | Machine Learning | ML-85       | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/pandohansamuel19/)               |
-| Achmad Agung Bachtiar           | C166DSX1646        | Cloud Computing  | CC-23       | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
-| Jevin Arda Prayoga              | C282DKX3873        | Cloud Computing  | ML-29       | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
-| Nico Kangdra                    | C322DSX0603        | Cloud Computing  | CC-21       | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/nico-kangdra-10378326a/)         |
+| Name                            | Cohort ID          | Learning Path    | University                 | LinkedIn                                                                |
+| ------------------------------- | ------------------ | ---------------- | -------------------------- | ----------------------------------------------------------------------- |
+| Osmond Willyando                | M017DKX3886        | Machine Learning | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
+| Chintya Suci Wardani            | M017DKY3765        | Machine Learning | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/chintya-suci-wardani-933004194/) |
+| Samuel Pandohan Terampil Gultom | M322DSX2142        | Machine Learning | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/pandohansamuel19/)               |
+| Achmad Agung Bachtiar           | C166DSX1646        | Cloud Computing  | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
+| Jevin Arda Prayoga              | C282DKX3873        | Cloud Computing  | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
+| Nico Kangdra                    | C322DSX0603        | Cloud Computing  | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/nico-kangdra-10378326a/)         |
 <br>
 
 ## Infrastructure Schemas
