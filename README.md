@@ -1,5 +1,5 @@
 # [C23-CD01] Overfishn't - Fisheries Performance Analysis Data Solutions
-![Prototype Images](coverage/image/prototype_image.jpg)
+![Prototype Images](https://assets.ltkcontent.com/images/98875/commercial-fisherman_7abbbb2796.jpg)
 <br><br><br>
 
 ## Project Executive Summary
