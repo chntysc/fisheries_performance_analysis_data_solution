@@ -16,8 +16,8 @@ Fishermen face several challenges that lead to significant losses in the fishing
 | Osmond Willyando                | M017DKX3886        | Machine Learning | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
 | Chintya Suci Wardani            | M017DKY3765        | Machine Learning | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/chintya-suci-wardani-933004194/) |
 | Samuel Pandohan Terampil Gultom | M322DSX2142        | Machine Learning | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/pandohansamuel19/)               |
-| Achmad Agung Bachtiar           | C166DSX1646        | Cloud Computing  | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
-| Jevin Arda Prayoga              | C282DKX3873        | Cloud Computing  | Institut Teknologi Bandung | [LinkedIn](https://www.linkedin.com/in/osmond-willyando/)               |
+| Achmad Agung Bachtiar           | C166DSX1646        | Cloud Computing  | Universitas Diponegoro | [LinkedIn](https://www.linkedin.com/in/achmaadagung/)               |
+| Jevin Arda Prayoga              | C282DKX3873        | Cloud Computing  | Universitas Negeri Malang | [LinkedIn](https://www.linkedin.com/in/jevinarda/)               |
 | Nico Kangdra                    | C322DSX0603        | Cloud Computing  | Universitas Presiden       | [LinkedIn](https://www.linkedin.com/in/nico-kangdra-10378326a/)         |
 <br>
 
